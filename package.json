@@ -1,0 +1,11 @@
+{
+  "name": "azam-ai",
+  "version": "1.0.0",
+  "description": "AZAM AI assistant",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
