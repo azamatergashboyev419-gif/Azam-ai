@@ -1,0 +1,2 @@
+# Azam-ai
+{   "name": "azam-ai",   "version": "1.0.0",   "scripts": {     "start": "node server.js"   },   "dependencies": {     "express": "^4.21.2"   } }
